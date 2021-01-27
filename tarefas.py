@@ -49,7 +49,7 @@ def main ():
             list_h_maquinas.append(int (newList[1]))
         if sum(list_h_maquinas) >= sum(list_h_tasks): 
             break 
-        print ("Os valores devem ser maior que 0\n")       
+        print ("Os valores devem ser maior que 0 para funcionar\n")       
 
     ## -------------------------------------------------------------------------------
     ## Leia o custo e o tempo máximo de cada máquin
